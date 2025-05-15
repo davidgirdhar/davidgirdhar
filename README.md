@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/david-girdhar-237a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidgirdhar" height="30" width="40" /></a>
 <a href="https://codesandbox.com/davidgirdhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="davidgirdhar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/david_gdr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshitsuthar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/davidgirdhar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davidgirdhar3" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/davidgirdhar3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="davidgirdhar3" height="30" width="40" /></a>
 </p>
